@@ -13,3 +13,4 @@ void userRegistration(void)
 {
 	printf("Inside User Registration Function");
 }
+// Succefully merged the code in userReg.c
